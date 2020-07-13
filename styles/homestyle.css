@@ -26,5 +26,8 @@ body p{
 }
 
 body{
-    background-image: url("../pictures/cool-background");
+    background-image: url("../pictures/cool-background.png");
+}
+body img{
+    border-radius: 10px;
 }
