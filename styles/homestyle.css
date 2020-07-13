@@ -1,3 +1,33 @@
-﻿body
-{
+﻿/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Modak&display=swap");
+
+body a {
+    font-family: 'Ubuntu', sans-serif;
 }
+
+body h1 {
+    font-family: 'Modak', sans-serif;
+}
+
+body li {
+    font-family: 'Oswald', sans-serif;
+}
+
+body p {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.top-nav-bar {
+    background-color: blue;
+}
+
+body {
+    background-image: url("../pictures/cool-background.png");
+}
+
+    body img {
+        border-radius: 10px;
+    }
